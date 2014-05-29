@@ -1,0 +1,13 @@
+template: Hello, %s!
+
+defaultName: Stranger
+
+# use the simple server factory if you only want to run on a single port
+server:
+  type: simple
+  applicationContextPath: /
+  adminContextPath: /admin
+  connector:
+    type: http
+    port: 8080
+
