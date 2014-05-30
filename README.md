@@ -11,8 +11,8 @@ How to deploy
 Clone app from Github  
 
 ```
-$ git clone git@github.com:flect/ht-scala-play.git
-$ cd ht-scala-play/
+$ git clone git@github.com:flect/ht-java-dropwizard.git
+$ cd ht-java-dropwizard
 ```
 
 ### Step2  
