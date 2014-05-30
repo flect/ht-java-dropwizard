@@ -14,7 +14,7 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  * Created by shimizu on 2014/05/28.
  */
-@Path("/hello-world")
+@Path("/")
 @Produces(MediaType.APPLICATION_JSON)
 public class HelloWorldResource {
 	private final String template;
